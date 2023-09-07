@@ -1,0 +1,3 @@
+[submodule "crystal/task_manager"]
+	path = crystal/task_manager
+	url = https://github.com/LolsonX/crystal_todo
